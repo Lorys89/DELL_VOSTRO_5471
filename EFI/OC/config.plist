@@ -167,7 +167,7 @@
 				<key>AAPL,slot-name</key>
 				<string>Built In</string>
 				<key>device-id</key>
-				<data>FlkAAA==</data>
+				<data>wIcAAA==</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>disable-external-gpu</key>
@@ -190,6 +190,8 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-con2-pipe</key>
 				<data>EgAAAA==</data>
+				<key>framebuffer-con2-type</key>
+				<data>AAgAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
@@ -212,6 +214,16 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x14,0x0)</key>
 			<dict>
+				<key>#AAPL,current-available</key>
+				<data></data>
+				<key>#AAPL,current-extra</key>
+				<data></data>
+				<key>#AAPL,current-extra-in-sleep</key>
+				<data></data>
+				<key>#AAPL,device-internal</key>
+				<data></data>
+				<key>#AAPL,max-port-current-in-sleep</key>
+				<data></data>
 				<key>AAPL,slot-name</key>
 				<string>Built In</string>
 				<key>device_type</key>
