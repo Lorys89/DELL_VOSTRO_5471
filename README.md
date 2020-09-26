@@ -1,4 +1,5 @@
 # Dell Vostro 5471 Hackintosh
+# (Basic EFI)
 
 EFI for Dell Vostro 5471 with OpenCore bootloader
 
