@@ -1,0 +1,1 @@
+# Dell-Vostro-5471-Basic-
