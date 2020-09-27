@@ -68,11 +68,6 @@ Open terminal and run install.sh from PostInsall/ComboJackAlc295. After reboot i
 ### SSDT Info
 ![ssdt](./Screenshot/ssdtscreen.png)
 
-## Geekbench
-![ssdt](./Screenshot/geeckcpu.jpeg)
-![ssdt](./Screenshot/geeckopencl.jpeg)
-![ssdt](./Screenshot/geeckmetal.jpeg)
-
 See [ioreg](./ioregmacbook.ioreg) for more clarification
 
 ## Credits
