@@ -11,7 +11,7 @@ EFI for Dell Vostro 5471 with OpenCore bootloader
 | CPU              | Intel® i7 8550U (KBL-R)            |
 | iGPU             | Intel® UHD Graphics 620            |
 | dGPU             | AMD Radeon 530 (disabled on macOs) |
-| Display          | 1920x1080                          |
+| Display          | 14" FHD 1920x1080                  |
 | Audio            | Realtek ALC295                     |
 | Ram              | 32 Gb ddr4 2400 Mhz                |
 | Lan              | Realtek 8168                       |
@@ -19,7 +19,7 @@ EFI for Dell Vostro 5471 with OpenCore bootloader
 | NVMe             | Samsung 970 EVO PLUS 500 GB        |
 | SSD              | Samsung 850 EVO 500 GB             |
 | SmBios           | MacbookPro 15,2                    |
-| BootLoader       | OpenCore                           |
+| BootLoader       | OpenCore 0.6.1                     |
 
 
 ![infobigsur](./Screenshot/infomacbigsur.png)
