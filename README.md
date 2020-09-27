@@ -74,11 +74,8 @@ See [ioreg](./ioregmacbook.ioreg) for more clarification
 
 - [Apple](https://apple.com) for macOS;
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
-- [Aplelife.ru](https://applelife.ru/threads/dampy-originalnyx-makov.2943712) For ioreg and ACPI of original mac.
-- [Dortania](https://github.com/dortania)
-- [mald0n](https://github.com/MaLd0n)
-- [rehabman](https://github.com/RehabMan)
-- [daliansky](https://github.com/daliansky)
+- [Dortania](https://github.com/dortania) For their detailed guides.
+- [Lorys89](https://github.com/Lorys89)
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit)
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
