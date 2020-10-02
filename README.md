@@ -15,7 +15,7 @@ EFI for Dell Vostro 5471 with OpenCore bootloader
 | Audio            | Realtek ALC295                     |
 | Ram              | 32 Gb ddr4 2400 Mhz                |
 | Lan              | Realtek 8168                       |
-| Wifi + Bluetooth | Bcm94360ng (replaced)              |
+| Wifi + Bluetooth | BCM943602BAED (replaced)           |
 | NVMe             | Samsung 970 EVO PLUS 500 GB        |
 | SSD              | Samsung 850 EVO 500 GB             |
 | SmBios           | MacbookPro 15,2                    |
@@ -44,7 +44,7 @@ EFI for Dell Vostro 5471 with OpenCore bootloader
 - [x] SpeedStep / Sleep / Wake
 - [x] I2C Touchpad with gesture
 - [x] Brightness Key
-- [x] Wi-Fi and Bluetooth Bcm94360ng Module
+- [x] Wi-Fi and Bluetooth BCM943602BAED (DW1830) Module
 - [x] Realtek RTL8168 LAN
 - [x] USB Cardreader
 - [x] ACPI Battery
