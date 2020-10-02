@@ -30,6 +30,7 @@ EFI for Dell Vostro 5471 with OpenCore bootloader
 ![infodp2](./Screenshot/DpciScreen2.png)
 ![infogpu](./Screenshot/hackintooligpu.png)
 ![usbmap](./Screenshot/mapusb.png)
+![wifispeed](./Screenshot/wifispeed.png)
 ![infopci](./Screenshot/PCISEZ.png)
 
 ### What works and What doesn't or WIP:
