@@ -188,16 +188,6 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x14,0x0)</key>
 			<dict>
-				<key>#AAPL,current-available</key>
-				<data></data>
-				<key>#AAPL,current-extra</key>
-				<data></data>
-				<key>#AAPL,current-extra-in-sleep</key>
-				<data></data>
-				<key>#AAPL,device-internal</key>
-				<data></data>
-				<key>#AAPL,max-port-current-in-sleep</key>
-				<data></data>
 				<key>AAPL,slot-name</key>
 				<string>Built In</string>
 				<key>device_type</key>
@@ -213,15 +203,6 @@
 				<string>Serial Bus Controller</string>
 				<key>model</key>
 				<string>Intel Corporation, Series Chipset SMBus Controller</string>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Built In</string>
-				<key>device_type</key>
-				<string>Ethernet controller</string>
-				<key>model</key>
-				<string>Realtek RTL8168H/8111H PCI Express Gigabit Ethernet</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1C,0x5)/Pci(0x0,0x0)</key>
 			<dict>
@@ -300,6 +281,15 @@
 				<string>Signal processing controller</string>
 				<key>model</key>
 				<string>Intel Corporation, Series Chipset Core Processor Thermal Subsystem</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Built In</string>
+				<key>device_type</key>
+				<string>Ethernet controller</string>
+				<key>model</key>
+				<string>Realtek RTL8168H/8111H PCI Express Gigabit Ethernet</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -518,6 +508,24 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCDellSensors</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>SMCLightSensor.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCLightSensor</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -899,7 +907,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>SecureBootModel</key>
-			<string>Disabled</string>
+			<string>j132</string>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>Vault</key>
