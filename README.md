@@ -19,7 +19,7 @@ EFI for Dell Vostro 5471 with OpenCore bootloader
 | NVMe             | Samsung 970 EVO PLUS 500 GB        |
 | SSD              | Samsung 850 EVO 500 GB             |
 | SmBios           | MacbookPro 15,2                    |
-| BootLoader       | OpenCore 0.6.1                     |
+| BootLoader       | OpenCore 0.6.2                     |
 
 
 ![infobigsur](./Screenshot/infomacbigsur.png)
