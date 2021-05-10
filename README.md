@@ -1,4 +1,5 @@
-# Dell Vostro 5471 Hackintosh
+# Dell Vostro 5471 Hackintosh (I sold the laptop, this repo will no longer be updated
+)
 
 EFI for Dell Vostro 5471 with OpenCore bootloader
 
